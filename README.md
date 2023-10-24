@@ -3,6 +3,7 @@
 *****ALL THE PROGRAMS WERE WRITTEN USING PYTHON AS PRIMARY TOOL AND EXCEL WAS USED TO HANDLE DATASETS ALONG WITH PYTHON*****
 
 **What exactly is QSAR?**
+
 Quantitative Structure-activity relationship (QSAR) is a ligand-based drug discovery method 
 and a data-driven approach that considers the experimentally validated molecules' biological 
 activity and drug information data, known as Molecular descriptors, for predicting on-target 
