@@ -1,7 +1,3 @@
-*THIS REPOSITERY INCLUDES ALL THE NECESSARY TOOLS FOR DEVELOPING QSAR (QUANTITATIVE STRUCTURE ACTIVITY RELATION SHIP) MODELS USING MACHINE LEARNING AND DEEP LEARNING APPROACHES.*
-
-*****ALL THE PROGRAMS WERE WRITTEN USING PYTHON AS PRIMARY TOOL AND EXCEL WAS USED TO HANDLE DATASETS ALONG WITH PYTHON*****
-
 **What exactly is QSAR?**
 
 Quantitative Structure-activity relationship (QSAR) is a ligand-based drug discovery method 
@@ -36,6 +32,7 @@ for performance validations during regression-based machine learning predictions
 
 An AI-ML based QSAR model development workflow is represented in below image:
 ![image](https://github.com/ANUSHKARAMPURI/ML4DrugDesign-QSAR-Modelling-for-Breast-Cancer-Therapeutics/assets/133758533/204488fd-525a-4a06-801a-21fcb6ea87e3)
+
 
 
 
