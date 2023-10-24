@@ -16,22 +16,6 @@ fingerprints, and Molecular fingerprints.
 
 ![image](https://github.com/ANUSHKARAMPURI/ML4DrugDesign-QSAR-Modelling-for-Breast-Cancer-Therapeutics/assets/133758533/bc09f552-d855-497b-9d7d-7d70bb5e1ffd)
 
-**Role of AI and ML in developing QSAR models**
-
-Artificial intelligence has had remarkable development in the field of drug discovery in the last 
-decade, especially Machine learning (ML) and Deep learning (DL). ML and 
-DL were widely used as data-driven approaches in developing QSAR models targeting various 
-diseases. Machine learning and deep learning methods are employed to develop a QSAR model to 
-perform regression-based predictions of continuous variables such as Biological activity (IC50 
-values). Traditional QSAR modeling involves calculating molecular descriptors for each drug 
-molecule utilizing the data generated to train the ML algorithms. Trained Machine learning 
-algorithms can predict the biological activity of novel molecules based on the respective drug 
-molecule's structural information. R2 (Coefficient of determination), RMSE (Root Mean 
-Square Error), MSE (Mean Square Error), and Fold Cross-validation scores will be evaluated 
-for performance validations during regression-based machine learning predictions.
-
-An AI-ML based QSAR model development workflow is represented in below image:
-![image](https://github.com/ANUSHKARAMPURI/ML4DrugDesign-QSAR-Modelling-for-Breast-Cancer-Therapeutics/assets/133758533/204488fd-525a-4a06-801a-21fcb6ea87e3)
 
 
 
