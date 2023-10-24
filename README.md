@@ -18,6 +18,7 @@ that quantitatively represent a molecule, and these can be Topological descripto
 descriptors, Electronic descriptors, Physicochemical descriptors, QSAR descriptors, chemical 
 fingerprints, and Molecular fingerprints.
 
+**Role of AI and ML in developing QSAR models**
 
 
 
