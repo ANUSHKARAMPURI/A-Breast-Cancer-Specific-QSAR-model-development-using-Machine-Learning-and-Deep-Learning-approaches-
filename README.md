@@ -6,7 +6,7 @@ Database souces\
 
 GDSC(genomics of drug sensitivity in cancer) combinations:
 https://gdsc-combinations.depmap.sanger.ac.uk/
-\
+
 
 GDSC (Genomics of drug sensitivity in cancer):
 https://www.cancerrxgene.org/
